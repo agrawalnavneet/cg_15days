@@ -1,0 +1,15 @@
+/Users/navneetagarwal/Desktop/cg training/Day1/M5/bin/Debug/net10.0/M5
+/Users/navneetagarwal/Desktop/cg training/Day1/M5/bin/Debug/net10.0/M5.deps.json
+/Users/navneetagarwal/Desktop/cg training/Day1/M5/bin/Debug/net10.0/M5.runtimeconfig.json
+/Users/navneetagarwal/Desktop/cg training/Day1/M5/bin/Debug/net10.0/M5.dll
+/Users/navneetagarwal/Desktop/cg training/Day1/M5/bin/Debug/net10.0/M5.pdb
+/Users/navneetagarwal/Desktop/cg training/Day1/M5/obj/Debug/net10.0/M5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/navneetagarwal/Desktop/cg training/Day1/M5/obj/Debug/net10.0/M5.AssemblyInfoInputs.cache
+/Users/navneetagarwal/Desktop/cg training/Day1/M5/obj/Debug/net10.0/M5.AssemblyInfo.cs
+/Users/navneetagarwal/Desktop/cg training/Day1/M5/obj/Debug/net10.0/M5.csproj.CoreCompileInputs.cache
+/Users/navneetagarwal/Desktop/cg training/Day1/M5/obj/Debug/net10.0/M5.sourcelink.json
+/Users/navneetagarwal/Desktop/cg training/Day1/M5/obj/Debug/net10.0/M5.dll
+/Users/navneetagarwal/Desktop/cg training/Day1/M5/obj/Debug/net10.0/refint/M5.dll
+/Users/navneetagarwal/Desktop/cg training/Day1/M5/obj/Debug/net10.0/M5.pdb
+/Users/navneetagarwal/Desktop/cg training/Day1/M5/obj/Debug/net10.0/M5.genruntimeconfig.cache
+/Users/navneetagarwal/Desktop/cg training/Day1/M5/obj/Debug/net10.0/ref/M5.dll
