@@ -1,0 +1,15 @@
+/Users/navneetagarwal/Desktop/cg training/Assignment_/Metro_Smart_Card_System_assignment/bin/Debug/net10.0/Metro_Smart_Card_System_assignment
+/Users/navneetagarwal/Desktop/cg training/Assignment_/Metro_Smart_Card_System_assignment/bin/Debug/net10.0/Metro_Smart_Card_System_assignment.deps.json
+/Users/navneetagarwal/Desktop/cg training/Assignment_/Metro_Smart_Card_System_assignment/bin/Debug/net10.0/Metro_Smart_Card_System_assignment.runtimeconfig.json
+/Users/navneetagarwal/Desktop/cg training/Assignment_/Metro_Smart_Card_System_assignment/bin/Debug/net10.0/Metro_Smart_Card_System_assignment.dll
+/Users/navneetagarwal/Desktop/cg training/Assignment_/Metro_Smart_Card_System_assignment/bin/Debug/net10.0/Metro_Smart_Card_System_assignment.pdb
+/Users/navneetagarwal/Desktop/cg training/Assignment_/Metro_Smart_Card_System_assignment/obj/Debug/net10.0/Metro_Smart_Card_System_assignment.GeneratedMSBuildEditorConfig.editorconfig
+/Users/navneetagarwal/Desktop/cg training/Assignment_/Metro_Smart_Card_System_assignment/obj/Debug/net10.0/Metro_Smart_Card_System_assignment.AssemblyInfoInputs.cache
+/Users/navneetagarwal/Desktop/cg training/Assignment_/Metro_Smart_Card_System_assignment/obj/Debug/net10.0/Metro_Smart_Card_System_assignment.AssemblyInfo.cs
+/Users/navneetagarwal/Desktop/cg training/Assignment_/Metro_Smart_Card_System_assignment/obj/Debug/net10.0/Metro_Smart_Card_System_assignment.csproj.CoreCompileInputs.cache
+/Users/navneetagarwal/Desktop/cg training/Assignment_/Metro_Smart_Card_System_assignment/obj/Debug/net10.0/Metro_Smart_Card_System_assignment.sourcelink.json
+/Users/navneetagarwal/Desktop/cg training/Assignment_/Metro_Smart_Card_System_assignment/obj/Debug/net10.0/Metro_Smart_Card_System_assignment.dll
+/Users/navneetagarwal/Desktop/cg training/Assignment_/Metro_Smart_Card_System_assignment/obj/Debug/net10.0/refint/Metro_Smart_Card_System_assignment.dll
+/Users/navneetagarwal/Desktop/cg training/Assignment_/Metro_Smart_Card_System_assignment/obj/Debug/net10.0/Metro_Smart_Card_System_assignment.pdb
+/Users/navneetagarwal/Desktop/cg training/Assignment_/Metro_Smart_Card_System_assignment/obj/Debug/net10.0/Metro_Smart_Card_System_assignment.genruntimeconfig.cache
+/Users/navneetagarwal/Desktop/cg training/Assignment_/Metro_Smart_Card_System_assignment/obj/Debug/net10.0/ref/Metro_Smart_Card_System_assignment.dll

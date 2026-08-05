@@ -1,0 +1,15 @@
+/Users/navneetagarwal/Desktop/cg training/Day2/M4_GeometryLibraryDemo/bin/Debug/net10.0/M4_GeometryLibraryDemo
+/Users/navneetagarwal/Desktop/cg training/Day2/M4_GeometryLibraryDemo/bin/Debug/net10.0/M4_GeometryLibraryDemo.deps.json
+/Users/navneetagarwal/Desktop/cg training/Day2/M4_GeometryLibraryDemo/bin/Debug/net10.0/M4_GeometryLibraryDemo.runtimeconfig.json
+/Users/navneetagarwal/Desktop/cg training/Day2/M4_GeometryLibraryDemo/bin/Debug/net10.0/M4_GeometryLibraryDemo.dll
+/Users/navneetagarwal/Desktop/cg training/Day2/M4_GeometryLibraryDemo/bin/Debug/net10.0/M4_GeometryLibraryDemo.pdb
+/Users/navneetagarwal/Desktop/cg training/Day2/M4_GeometryLibraryDemo/obj/Debug/net10.0/M4_GeometryLibraryDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/navneetagarwal/Desktop/cg training/Day2/M4_GeometryLibraryDemo/obj/Debug/net10.0/M4_GeometryLibraryDemo.AssemblyInfoInputs.cache
+/Users/navneetagarwal/Desktop/cg training/Day2/M4_GeometryLibraryDemo/obj/Debug/net10.0/M4_GeometryLibraryDemo.AssemblyInfo.cs
+/Users/navneetagarwal/Desktop/cg training/Day2/M4_GeometryLibraryDemo/obj/Debug/net10.0/M4_GeometryLibraryDemo.csproj.CoreCompileInputs.cache
+/Users/navneetagarwal/Desktop/cg training/Day2/M4_GeometryLibraryDemo/obj/Debug/net10.0/M4_GeometryLibraryDemo.sourcelink.json
+/Users/navneetagarwal/Desktop/cg training/Day2/M4_GeometryLibraryDemo/obj/Debug/net10.0/M4_GeometryLibraryDemo.dll
+/Users/navneetagarwal/Desktop/cg training/Day2/M4_GeometryLibraryDemo/obj/Debug/net10.0/refint/M4_GeometryLibraryDemo.dll
+/Users/navneetagarwal/Desktop/cg training/Day2/M4_GeometryLibraryDemo/obj/Debug/net10.0/M4_GeometryLibraryDemo.pdb
+/Users/navneetagarwal/Desktop/cg training/Day2/M4_GeometryLibraryDemo/obj/Debug/net10.0/M4_GeometryLibraryDemo.genruntimeconfig.cache
+/Users/navneetagarwal/Desktop/cg training/Day2/M4_GeometryLibraryDemo/obj/Debug/net10.0/ref/M4_GeometryLibraryDemo.dll

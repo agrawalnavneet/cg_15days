@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "M4_GeometryLibraryDemo/1.0.0": {
+        "runtime": {
+          "M4_GeometryLibraryDemo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "M4_GeometryLibraryDemo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

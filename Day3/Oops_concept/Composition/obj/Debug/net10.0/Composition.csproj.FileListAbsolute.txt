@@ -1,0 +1,15 @@
+/Users/navneetagarwal/Desktop/cg training/Day3/Oops_concept/Composition/bin/Debug/net10.0/Composition
+/Users/navneetagarwal/Desktop/cg training/Day3/Oops_concept/Composition/bin/Debug/net10.0/Composition.deps.json
+/Users/navneetagarwal/Desktop/cg training/Day3/Oops_concept/Composition/bin/Debug/net10.0/Composition.runtimeconfig.json
+/Users/navneetagarwal/Desktop/cg training/Day3/Oops_concept/Composition/bin/Debug/net10.0/Composition.dll
+/Users/navneetagarwal/Desktop/cg training/Day3/Oops_concept/Composition/bin/Debug/net10.0/Composition.pdb
+/Users/navneetagarwal/Desktop/cg training/Day3/Oops_concept/Composition/obj/Debug/net10.0/Composition.GeneratedMSBuildEditorConfig.editorconfig
+/Users/navneetagarwal/Desktop/cg training/Day3/Oops_concept/Composition/obj/Debug/net10.0/Composition.AssemblyInfoInputs.cache
+/Users/navneetagarwal/Desktop/cg training/Day3/Oops_concept/Composition/obj/Debug/net10.0/Composition.AssemblyInfo.cs
+/Users/navneetagarwal/Desktop/cg training/Day3/Oops_concept/Composition/obj/Debug/net10.0/Composition.csproj.CoreCompileInputs.cache
+/Users/navneetagarwal/Desktop/cg training/Day3/Oops_concept/Composition/obj/Debug/net10.0/Composition.sourcelink.json
+/Users/navneetagarwal/Desktop/cg training/Day3/Oops_concept/Composition/obj/Debug/net10.0/Composition.dll
+/Users/navneetagarwal/Desktop/cg training/Day3/Oops_concept/Composition/obj/Debug/net10.0/refint/Composition.dll
+/Users/navneetagarwal/Desktop/cg training/Day3/Oops_concept/Composition/obj/Debug/net10.0/Composition.pdb
+/Users/navneetagarwal/Desktop/cg training/Day3/Oops_concept/Composition/obj/Debug/net10.0/Composition.genruntimeconfig.cache
+/Users/navneetagarwal/Desktop/cg training/Day3/Oops_concept/Composition/obj/Debug/net10.0/ref/Composition.dll

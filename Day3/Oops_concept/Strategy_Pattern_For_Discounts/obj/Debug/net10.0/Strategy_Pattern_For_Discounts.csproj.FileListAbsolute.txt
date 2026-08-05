@@ -1,0 +1,15 @@
+/Users/navneetagarwal/Desktop/cg training/Day3/Oops_concept/Strategy_Pattern_For_Discounts/obj/Debug/net10.0/Strategy_Pattern_For_Discounts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/navneetagarwal/Desktop/cg training/Day3/Oops_concept/Strategy_Pattern_For_Discounts/obj/Debug/net10.0/Strategy_Pattern_For_Discounts.AssemblyInfoInputs.cache
+/Users/navneetagarwal/Desktop/cg training/Day3/Oops_concept/Strategy_Pattern_For_Discounts/obj/Debug/net10.0/Strategy_Pattern_For_Discounts.AssemblyInfo.cs
+/Users/navneetagarwal/Desktop/cg training/Day3/Oops_concept/Strategy_Pattern_For_Discounts/obj/Debug/net10.0/Strategy_Pattern_For_Discounts.csproj.CoreCompileInputs.cache
+/Users/navneetagarwal/Desktop/cg training/Day3/Oops_concept/Strategy_Pattern_For_Discounts/obj/Debug/net10.0/Strategy_Pattern_For_Discounts.sourcelink.json
+/Users/navneetagarwal/Desktop/cg training/Day3/Oops_concept/Strategy_Pattern_For_Discounts/bin/Debug/net10.0/Strategy_Pattern_For_Discounts
+/Users/navneetagarwal/Desktop/cg training/Day3/Oops_concept/Strategy_Pattern_For_Discounts/bin/Debug/net10.0/Strategy_Pattern_For_Discounts.deps.json
+/Users/navneetagarwal/Desktop/cg training/Day3/Oops_concept/Strategy_Pattern_For_Discounts/bin/Debug/net10.0/Strategy_Pattern_For_Discounts.runtimeconfig.json
+/Users/navneetagarwal/Desktop/cg training/Day3/Oops_concept/Strategy_Pattern_For_Discounts/bin/Debug/net10.0/Strategy_Pattern_For_Discounts.dll
+/Users/navneetagarwal/Desktop/cg training/Day3/Oops_concept/Strategy_Pattern_For_Discounts/bin/Debug/net10.0/Strategy_Pattern_For_Discounts.pdb
+/Users/navneetagarwal/Desktop/cg training/Day3/Oops_concept/Strategy_Pattern_For_Discounts/obj/Debug/net10.0/Strategy_Pattern_For_Discounts.dll
+/Users/navneetagarwal/Desktop/cg training/Day3/Oops_concept/Strategy_Pattern_For_Discounts/obj/Debug/net10.0/refint/Strategy_Pattern_For_Discounts.dll
+/Users/navneetagarwal/Desktop/cg training/Day3/Oops_concept/Strategy_Pattern_For_Discounts/obj/Debug/net10.0/Strategy_Pattern_For_Discounts.pdb
+/Users/navneetagarwal/Desktop/cg training/Day3/Oops_concept/Strategy_Pattern_For_Discounts/obj/Debug/net10.0/Strategy_Pattern_For_Discounts.genruntimeconfig.cache
+/Users/navneetagarwal/Desktop/cg training/Day3/Oops_concept/Strategy_Pattern_For_Discounts/obj/Debug/net10.0/ref/Strategy_Pattern_For_Discounts.dll

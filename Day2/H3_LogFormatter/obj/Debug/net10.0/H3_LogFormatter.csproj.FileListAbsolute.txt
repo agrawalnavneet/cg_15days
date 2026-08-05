@@ -1,0 +1,15 @@
+/Users/navneetagarwal/Desktop/cg training/Day2/H3_LogFormatter/obj/Debug/net10.0/H3_LogFormatter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/navneetagarwal/Desktop/cg training/Day2/H3_LogFormatter/obj/Debug/net10.0/H3_LogFormatter.AssemblyInfoInputs.cache
+/Users/navneetagarwal/Desktop/cg training/Day2/H3_LogFormatter/obj/Debug/net10.0/H3_LogFormatter.AssemblyInfo.cs
+/Users/navneetagarwal/Desktop/cg training/Day2/H3_LogFormatter/obj/Debug/net10.0/H3_LogFormatter.csproj.CoreCompileInputs.cache
+/Users/navneetagarwal/Desktop/cg training/Day2/H3_LogFormatter/obj/Debug/net10.0/H3_LogFormatter.sourcelink.json
+/Users/navneetagarwal/Desktop/cg training/Day2/H3_LogFormatter/bin/Debug/net10.0/H3_LogFormatter
+/Users/navneetagarwal/Desktop/cg training/Day2/H3_LogFormatter/bin/Debug/net10.0/H3_LogFormatter.deps.json
+/Users/navneetagarwal/Desktop/cg training/Day2/H3_LogFormatter/bin/Debug/net10.0/H3_LogFormatter.runtimeconfig.json
+/Users/navneetagarwal/Desktop/cg training/Day2/H3_LogFormatter/bin/Debug/net10.0/H3_LogFormatter.dll
+/Users/navneetagarwal/Desktop/cg training/Day2/H3_LogFormatter/bin/Debug/net10.0/H3_LogFormatter.pdb
+/Users/navneetagarwal/Desktop/cg training/Day2/H3_LogFormatter/obj/Debug/net10.0/H3_LogFormatter.dll
+/Users/navneetagarwal/Desktop/cg training/Day2/H3_LogFormatter/obj/Debug/net10.0/refint/H3_LogFormatter.dll
+/Users/navneetagarwal/Desktop/cg training/Day2/H3_LogFormatter/obj/Debug/net10.0/H3_LogFormatter.pdb
+/Users/navneetagarwal/Desktop/cg training/Day2/H3_LogFormatter/obj/Debug/net10.0/H3_LogFormatter.genruntimeconfig.cache
+/Users/navneetagarwal/Desktop/cg training/Day2/H3_LogFormatter/obj/Debug/net10.0/ref/H3_LogFormatter.dll

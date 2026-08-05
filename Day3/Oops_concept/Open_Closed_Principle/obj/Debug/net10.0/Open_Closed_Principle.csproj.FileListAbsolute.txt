@@ -1,0 +1,5 @@
+/Users/navneetagarwal/Desktop/cg training/Day3/Oops_concept/Open_Closed_Principle/obj/Debug/net10.0/Open_Closed_Principle.GeneratedMSBuildEditorConfig.editorconfig
+/Users/navneetagarwal/Desktop/cg training/Day3/Oops_concept/Open_Closed_Principle/obj/Debug/net10.0/Open_Closed_Principle.AssemblyInfoInputs.cache
+/Users/navneetagarwal/Desktop/cg training/Day3/Oops_concept/Open_Closed_Principle/obj/Debug/net10.0/Open_Closed_Principle.AssemblyInfo.cs
+/Users/navneetagarwal/Desktop/cg training/Day3/Oops_concept/Open_Closed_Principle/obj/Debug/net10.0/Open_Closed_Principle.csproj.CoreCompileInputs.cache
+/Users/navneetagarwal/Desktop/cg training/Day3/Oops_concept/Open_Closed_Principle/obj/Debug/net10.0/Open_Closed_Principle.sourcelink.json

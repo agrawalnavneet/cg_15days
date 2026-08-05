@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "H2_TreeNo/1.0.0": {
+        "runtime": {
+          "H2_TreeNo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "H2_TreeNo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

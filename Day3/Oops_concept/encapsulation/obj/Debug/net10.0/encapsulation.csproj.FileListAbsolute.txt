@@ -1,0 +1,15 @@
+/Users/navneetagarwal/Desktop/cg training/Day3/Oops_concept/encapsulation/bin/Debug/net10.0/encapsulation
+/Users/navneetagarwal/Desktop/cg training/Day3/Oops_concept/encapsulation/bin/Debug/net10.0/encapsulation.deps.json
+/Users/navneetagarwal/Desktop/cg training/Day3/Oops_concept/encapsulation/bin/Debug/net10.0/encapsulation.runtimeconfig.json
+/Users/navneetagarwal/Desktop/cg training/Day3/Oops_concept/encapsulation/bin/Debug/net10.0/encapsulation.dll
+/Users/navneetagarwal/Desktop/cg training/Day3/Oops_concept/encapsulation/bin/Debug/net10.0/encapsulation.pdb
+/Users/navneetagarwal/Desktop/cg training/Day3/Oops_concept/encapsulation/obj/Debug/net10.0/encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/navneetagarwal/Desktop/cg training/Day3/Oops_concept/encapsulation/obj/Debug/net10.0/encapsulation.AssemblyInfoInputs.cache
+/Users/navneetagarwal/Desktop/cg training/Day3/Oops_concept/encapsulation/obj/Debug/net10.0/encapsulation.AssemblyInfo.cs
+/Users/navneetagarwal/Desktop/cg training/Day3/Oops_concept/encapsulation/obj/Debug/net10.0/encapsulation.csproj.CoreCompileInputs.cache
+/Users/navneetagarwal/Desktop/cg training/Day3/Oops_concept/encapsulation/obj/Debug/net10.0/encapsulation.sourcelink.json
+/Users/navneetagarwal/Desktop/cg training/Day3/Oops_concept/encapsulation/obj/Debug/net10.0/encapsulation.dll
+/Users/navneetagarwal/Desktop/cg training/Day3/Oops_concept/encapsulation/obj/Debug/net10.0/refint/encapsulation.dll
+/Users/navneetagarwal/Desktop/cg training/Day3/Oops_concept/encapsulation/obj/Debug/net10.0/encapsulation.pdb
+/Users/navneetagarwal/Desktop/cg training/Day3/Oops_concept/encapsulation/obj/Debug/net10.0/encapsulation.genruntimeconfig.cache
+/Users/navneetagarwal/Desktop/cg training/Day3/Oops_concept/encapsulation/obj/Debug/net10.0/ref/encapsulation.dll

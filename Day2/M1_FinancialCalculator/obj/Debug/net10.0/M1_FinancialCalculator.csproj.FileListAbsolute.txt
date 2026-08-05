@@ -1,0 +1,15 @@
+/Users/navneetagarwal/Desktop/cg training/Day2/M1_FinancialCalculator/bin/Debug/net10.0/M1_FinancialCalculator
+/Users/navneetagarwal/Desktop/cg training/Day2/M1_FinancialCalculator/bin/Debug/net10.0/M1_FinancialCalculator.deps.json
+/Users/navneetagarwal/Desktop/cg training/Day2/M1_FinancialCalculator/bin/Debug/net10.0/M1_FinancialCalculator.runtimeconfig.json
+/Users/navneetagarwal/Desktop/cg training/Day2/M1_FinancialCalculator/bin/Debug/net10.0/M1_FinancialCalculator.dll
+/Users/navneetagarwal/Desktop/cg training/Day2/M1_FinancialCalculator/bin/Debug/net10.0/M1_FinancialCalculator.pdb
+/Users/navneetagarwal/Desktop/cg training/Day2/M1_FinancialCalculator/obj/Debug/net10.0/M1_FinancialCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/navneetagarwal/Desktop/cg training/Day2/M1_FinancialCalculator/obj/Debug/net10.0/M1_FinancialCalculator.AssemblyInfoInputs.cache
+/Users/navneetagarwal/Desktop/cg training/Day2/M1_FinancialCalculator/obj/Debug/net10.0/M1_FinancialCalculator.AssemblyInfo.cs
+/Users/navneetagarwal/Desktop/cg training/Day2/M1_FinancialCalculator/obj/Debug/net10.0/M1_FinancialCalculator.csproj.CoreCompileInputs.cache
+/Users/navneetagarwal/Desktop/cg training/Day2/M1_FinancialCalculator/obj/Debug/net10.0/M1_FinancialCalculator.sourcelink.json
+/Users/navneetagarwal/Desktop/cg training/Day2/M1_FinancialCalculator/obj/Debug/net10.0/M1_FinancialCalculator.dll
+/Users/navneetagarwal/Desktop/cg training/Day2/M1_FinancialCalculator/obj/Debug/net10.0/refint/M1_FinancialCalculator.dll
+/Users/navneetagarwal/Desktop/cg training/Day2/M1_FinancialCalculator/obj/Debug/net10.0/M1_FinancialCalculator.pdb
+/Users/navneetagarwal/Desktop/cg training/Day2/M1_FinancialCalculator/obj/Debug/net10.0/M1_FinancialCalculator.genruntimeconfig.cache
+/Users/navneetagarwal/Desktop/cg training/Day2/M1_FinancialCalculator/obj/Debug/net10.0/ref/M1_FinancialCalculator.dll

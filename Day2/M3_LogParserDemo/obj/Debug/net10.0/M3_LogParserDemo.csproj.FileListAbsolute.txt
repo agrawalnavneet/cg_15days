@@ -1,0 +1,15 @@
+/Users/navneetagarwal/Desktop/cg training/Day2/M3_LogParserDemo/bin/Debug/net10.0/M3_LogParserDemo
+/Users/navneetagarwal/Desktop/cg training/Day2/M3_LogParserDemo/bin/Debug/net10.0/M3_LogParserDemo.deps.json
+/Users/navneetagarwal/Desktop/cg training/Day2/M3_LogParserDemo/bin/Debug/net10.0/M3_LogParserDemo.runtimeconfig.json
+/Users/navneetagarwal/Desktop/cg training/Day2/M3_LogParserDemo/bin/Debug/net10.0/M3_LogParserDemo.dll
+/Users/navneetagarwal/Desktop/cg training/Day2/M3_LogParserDemo/bin/Debug/net10.0/M3_LogParserDemo.pdb
+/Users/navneetagarwal/Desktop/cg training/Day2/M3_LogParserDemo/obj/Debug/net10.0/M3_LogParserDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/navneetagarwal/Desktop/cg training/Day2/M3_LogParserDemo/obj/Debug/net10.0/M3_LogParserDemo.AssemblyInfoInputs.cache
+/Users/navneetagarwal/Desktop/cg training/Day2/M3_LogParserDemo/obj/Debug/net10.0/M3_LogParserDemo.AssemblyInfo.cs
+/Users/navneetagarwal/Desktop/cg training/Day2/M3_LogParserDemo/obj/Debug/net10.0/M3_LogParserDemo.csproj.CoreCompileInputs.cache
+/Users/navneetagarwal/Desktop/cg training/Day2/M3_LogParserDemo/obj/Debug/net10.0/M3_LogParserDemo.sourcelink.json
+/Users/navneetagarwal/Desktop/cg training/Day2/M3_LogParserDemo/obj/Debug/net10.0/M3_LogParserDemo.dll
+/Users/navneetagarwal/Desktop/cg training/Day2/M3_LogParserDemo/obj/Debug/net10.0/refint/M3_LogParserDemo.dll
+/Users/navneetagarwal/Desktop/cg training/Day2/M3_LogParserDemo/obj/Debug/net10.0/M3_LogParserDemo.pdb
+/Users/navneetagarwal/Desktop/cg training/Day2/M3_LogParserDemo/obj/Debug/net10.0/M3_LogParserDemo.genruntimeconfig.cache
+/Users/navneetagarwal/Desktop/cg training/Day2/M3_LogParserDemo/obj/Debug/net10.0/ref/M3_LogParserDemo.dll

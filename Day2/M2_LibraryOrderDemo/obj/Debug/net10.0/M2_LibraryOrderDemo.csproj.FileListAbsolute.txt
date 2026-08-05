@@ -1,0 +1,15 @@
+/Users/navneetagarwal/Desktop/cg training/Day2/M2_LibraryOrderDemo/bin/Debug/net10.0/M2_LibraryOrderDemo
+/Users/navneetagarwal/Desktop/cg training/Day2/M2_LibraryOrderDemo/bin/Debug/net10.0/M2_LibraryOrderDemo.deps.json
+/Users/navneetagarwal/Desktop/cg training/Day2/M2_LibraryOrderDemo/bin/Debug/net10.0/M2_LibraryOrderDemo.runtimeconfig.json
+/Users/navneetagarwal/Desktop/cg training/Day2/M2_LibraryOrderDemo/bin/Debug/net10.0/M2_LibraryOrderDemo.dll
+/Users/navneetagarwal/Desktop/cg training/Day2/M2_LibraryOrderDemo/bin/Debug/net10.0/M2_LibraryOrderDemo.pdb
+/Users/navneetagarwal/Desktop/cg training/Day2/M2_LibraryOrderDemo/obj/Debug/net10.0/M2_LibraryOrderDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/navneetagarwal/Desktop/cg training/Day2/M2_LibraryOrderDemo/obj/Debug/net10.0/M2_LibraryOrderDemo.AssemblyInfoInputs.cache
+/Users/navneetagarwal/Desktop/cg training/Day2/M2_LibraryOrderDemo/obj/Debug/net10.0/M2_LibraryOrderDemo.AssemblyInfo.cs
+/Users/navneetagarwal/Desktop/cg training/Day2/M2_LibraryOrderDemo/obj/Debug/net10.0/M2_LibraryOrderDemo.csproj.CoreCompileInputs.cache
+/Users/navneetagarwal/Desktop/cg training/Day2/M2_LibraryOrderDemo/obj/Debug/net10.0/M2_LibraryOrderDemo.sourcelink.json
+/Users/navneetagarwal/Desktop/cg training/Day2/M2_LibraryOrderDemo/obj/Debug/net10.0/M2_LibraryOrderDemo.dll
+/Users/navneetagarwal/Desktop/cg training/Day2/M2_LibraryOrderDemo/obj/Debug/net10.0/refint/M2_LibraryOrderDemo.dll
+/Users/navneetagarwal/Desktop/cg training/Day2/M2_LibraryOrderDemo/obj/Debug/net10.0/M2_LibraryOrderDemo.pdb
+/Users/navneetagarwal/Desktop/cg training/Day2/M2_LibraryOrderDemo/obj/Debug/net10.0/M2_LibraryOrderDemo.genruntimeconfig.cache
+/Users/navneetagarwal/Desktop/cg training/Day2/M2_LibraryOrderDemo/obj/Debug/net10.0/ref/M2_LibraryOrderDemo.dll

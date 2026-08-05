@@ -1,0 +1,15 @@
+/Users/navneetagarwal/Desktop/cg training/Day3/Oops_concept/inheritance_/bin/Debug/net10.0/inheritance_
+/Users/navneetagarwal/Desktop/cg training/Day3/Oops_concept/inheritance_/bin/Debug/net10.0/inheritance_.deps.json
+/Users/navneetagarwal/Desktop/cg training/Day3/Oops_concept/inheritance_/bin/Debug/net10.0/inheritance_.runtimeconfig.json
+/Users/navneetagarwal/Desktop/cg training/Day3/Oops_concept/inheritance_/bin/Debug/net10.0/inheritance_.dll
+/Users/navneetagarwal/Desktop/cg training/Day3/Oops_concept/inheritance_/bin/Debug/net10.0/inheritance_.pdb
+/Users/navneetagarwal/Desktop/cg training/Day3/Oops_concept/inheritance_/obj/Debug/net10.0/inheritance_.GeneratedMSBuildEditorConfig.editorconfig
+/Users/navneetagarwal/Desktop/cg training/Day3/Oops_concept/inheritance_/obj/Debug/net10.0/inheritance_.AssemblyInfoInputs.cache
+/Users/navneetagarwal/Desktop/cg training/Day3/Oops_concept/inheritance_/obj/Debug/net10.0/inheritance_.AssemblyInfo.cs
+/Users/navneetagarwal/Desktop/cg training/Day3/Oops_concept/inheritance_/obj/Debug/net10.0/inheritance_.csproj.CoreCompileInputs.cache
+/Users/navneetagarwal/Desktop/cg training/Day3/Oops_concept/inheritance_/obj/Debug/net10.0/inheritance_.sourcelink.json
+/Users/navneetagarwal/Desktop/cg training/Day3/Oops_concept/inheritance_/obj/Debug/net10.0/inheritance_.dll
+/Users/navneetagarwal/Desktop/cg training/Day3/Oops_concept/inheritance_/obj/Debug/net10.0/refint/inheritance_.dll
+/Users/navneetagarwal/Desktop/cg training/Day3/Oops_concept/inheritance_/obj/Debug/net10.0/inheritance_.pdb
+/Users/navneetagarwal/Desktop/cg training/Day3/Oops_concept/inheritance_/obj/Debug/net10.0/inheritance_.genruntimeconfig.cache
+/Users/navneetagarwal/Desktop/cg training/Day3/Oops_concept/inheritance_/obj/Debug/net10.0/ref/inheritance_.dll

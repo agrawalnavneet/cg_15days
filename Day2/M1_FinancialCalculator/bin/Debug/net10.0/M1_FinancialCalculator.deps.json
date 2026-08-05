@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "M1_FinancialCalculator/1.0.0": {
+        "runtime": {
+          "M1_FinancialCalculator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "M1_FinancialCalculator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+/Users/navneetagarwal/Desktop/cg training/Day2/M5_MathOperationsDemo/bin/Debug/net10.0/M5_MathOperationsDemo
+/Users/navneetagarwal/Desktop/cg training/Day2/M5_MathOperationsDemo/bin/Debug/net10.0/M5_MathOperationsDemo.deps.json
+/Users/navneetagarwal/Desktop/cg training/Day2/M5_MathOperationsDemo/bin/Debug/net10.0/M5_MathOperationsDemo.runtimeconfig.json
+/Users/navneetagarwal/Desktop/cg training/Day2/M5_MathOperationsDemo/bin/Debug/net10.0/M5_MathOperationsDemo.dll
+/Users/navneetagarwal/Desktop/cg training/Day2/M5_MathOperationsDemo/bin/Debug/net10.0/M5_MathOperationsDemo.pdb
+/Users/navneetagarwal/Desktop/cg training/Day2/M5_MathOperationsDemo/obj/Debug/net10.0/M5_MathOperationsDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/navneetagarwal/Desktop/cg training/Day2/M5_MathOperationsDemo/obj/Debug/net10.0/M5_MathOperationsDemo.AssemblyInfoInputs.cache
+/Users/navneetagarwal/Desktop/cg training/Day2/M5_MathOperationsDemo/obj/Debug/net10.0/M5_MathOperationsDemo.AssemblyInfo.cs
+/Users/navneetagarwal/Desktop/cg training/Day2/M5_MathOperationsDemo/obj/Debug/net10.0/M5_MathOperationsDemo.csproj.CoreCompileInputs.cache
+/Users/navneetagarwal/Desktop/cg training/Day2/M5_MathOperationsDemo/obj/Debug/net10.0/M5_MathOperationsDemo.sourcelink.json
+/Users/navneetagarwal/Desktop/cg training/Day2/M5_MathOperationsDemo/obj/Debug/net10.0/M5_MathOperationsDemo.dll
+/Users/navneetagarwal/Desktop/cg training/Day2/M5_MathOperationsDemo/obj/Debug/net10.0/refint/M5_MathOperationsDemo.dll
+/Users/navneetagarwal/Desktop/cg training/Day2/M5_MathOperationsDemo/obj/Debug/net10.0/M5_MathOperationsDemo.pdb
+/Users/navneetagarwal/Desktop/cg training/Day2/M5_MathOperationsDemo/obj/Debug/net10.0/M5_MathOperationsDemo.genruntimeconfig.cache
+/Users/navneetagarwal/Desktop/cg training/Day2/M5_MathOperationsDemo/obj/Debug/net10.0/ref/M5_MathOperationsDemo.dll

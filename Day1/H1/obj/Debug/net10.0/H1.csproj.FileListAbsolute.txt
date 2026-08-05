@@ -1,0 +1,15 @@
+/Users/navneetagarwal/Desktop/cg training/Day1/H1/bin/Debug/net10.0/H1
+/Users/navneetagarwal/Desktop/cg training/Day1/H1/bin/Debug/net10.0/H1.deps.json
+/Users/navneetagarwal/Desktop/cg training/Day1/H1/bin/Debug/net10.0/H1.runtimeconfig.json
+/Users/navneetagarwal/Desktop/cg training/Day1/H1/bin/Debug/net10.0/H1.dll
+/Users/navneetagarwal/Desktop/cg training/Day1/H1/bin/Debug/net10.0/H1.pdb
+/Users/navneetagarwal/Desktop/cg training/Day1/H1/obj/Debug/net10.0/H1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/navneetagarwal/Desktop/cg training/Day1/H1/obj/Debug/net10.0/H1.AssemblyInfoInputs.cache
+/Users/navneetagarwal/Desktop/cg training/Day1/H1/obj/Debug/net10.0/H1.AssemblyInfo.cs
+/Users/navneetagarwal/Desktop/cg training/Day1/H1/obj/Debug/net10.0/H1.csproj.CoreCompileInputs.cache
+/Users/navneetagarwal/Desktop/cg training/Day1/H1/obj/Debug/net10.0/H1.sourcelink.json
+/Users/navneetagarwal/Desktop/cg training/Day1/H1/obj/Debug/net10.0/H1.dll
+/Users/navneetagarwal/Desktop/cg training/Day1/H1/obj/Debug/net10.0/refint/H1.dll
+/Users/navneetagarwal/Desktop/cg training/Day1/H1/obj/Debug/net10.0/H1.pdb
+/Users/navneetagarwal/Desktop/cg training/Day1/H1/obj/Debug/net10.0/H1.genruntimeconfig.cache
+/Users/navneetagarwal/Desktop/cg training/Day1/H1/obj/Debug/net10.0/ref/H1.dll
