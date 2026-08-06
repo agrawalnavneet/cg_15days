@@ -1,0 +1,15 @@
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/Largest_Integer/bin/Debug/net10.0/Largest_Integer
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/Largest_Integer/bin/Debug/net10.0/Largest_Integer.deps.json
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/Largest_Integer/bin/Debug/net10.0/Largest_Integer.runtimeconfig.json
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/Largest_Integer/bin/Debug/net10.0/Largest_Integer.dll
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/Largest_Integer/bin/Debug/net10.0/Largest_Integer.pdb
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/Largest_Integer/obj/Debug/net10.0/Largest_Integer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/Largest_Integer/obj/Debug/net10.0/Largest_Integer.AssemblyInfoInputs.cache
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/Largest_Integer/obj/Debug/net10.0/Largest_Integer.AssemblyInfo.cs
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/Largest_Integer/obj/Debug/net10.0/Largest_Integer.csproj.CoreCompileInputs.cache
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/Largest_Integer/obj/Debug/net10.0/Largest_Integer.sourcelink.json
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/Largest_Integer/obj/Debug/net10.0/Largest_Integer.dll
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/Largest_Integer/obj/Debug/net10.0/refint/Largest_Integer.dll
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/Largest_Integer/obj/Debug/net10.0/Largest_Integer.pdb
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/Largest_Integer/obj/Debug/net10.0/Largest_Integer.genruntimeconfig.cache
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/Largest_Integer/obj/Debug/net10.0/ref/Largest_Integer.dll

@@ -1,0 +1,15 @@
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/Display_Height/bin/Debug/net10.0/Display_Height
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/Display_Height/bin/Debug/net10.0/Display_Height.deps.json
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/Display_Height/bin/Debug/net10.0/Display_Height.runtimeconfig.json
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/Display_Height/bin/Debug/net10.0/Display_Height.dll
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/Display_Height/bin/Debug/net10.0/Display_Height.pdb
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/Display_Height/obj/Debug/net10.0/Display_Height.GeneratedMSBuildEditorConfig.editorconfig
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/Display_Height/obj/Debug/net10.0/Display_Height.AssemblyInfoInputs.cache
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/Display_Height/obj/Debug/net10.0/Display_Height.AssemblyInfo.cs
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/Display_Height/obj/Debug/net10.0/Display_Height.csproj.CoreCompileInputs.cache
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/Display_Height/obj/Debug/net10.0/Display_Height.sourcelink.json
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/Display_Height/obj/Debug/net10.0/Display_Height.dll
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/Display_Height/obj/Debug/net10.0/refint/Display_Height.dll
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/Display_Height/obj/Debug/net10.0/Display_Height.pdb
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/Display_Height/obj/Debug/net10.0/Display_Height.genruntimeconfig.cache
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/Display_Height/obj/Debug/net10.0/ref/Display_Height.dll

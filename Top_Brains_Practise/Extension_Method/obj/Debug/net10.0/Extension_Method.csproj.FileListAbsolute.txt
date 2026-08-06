@@ -1,0 +1,15 @@
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/Extension_Method/bin/Debug/net10.0/Extension_Method
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/Extension_Method/bin/Debug/net10.0/Extension_Method.deps.json
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/Extension_Method/bin/Debug/net10.0/Extension_Method.runtimeconfig.json
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/Extension_Method/bin/Debug/net10.0/Extension_Method.dll
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/Extension_Method/bin/Debug/net10.0/Extension_Method.pdb
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/Extension_Method/obj/Debug/net10.0/Extension_Method.GeneratedMSBuildEditorConfig.editorconfig
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/Extension_Method/obj/Debug/net10.0/Extension_Method.AssemblyInfoInputs.cache
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/Extension_Method/obj/Debug/net10.0/Extension_Method.AssemblyInfo.cs
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/Extension_Method/obj/Debug/net10.0/Extension_Method.csproj.CoreCompileInputs.cache
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/Extension_Method/obj/Debug/net10.0/Extension_Method.sourcelink.json
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/Extension_Method/obj/Debug/net10.0/Extension_Method.dll
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/Extension_Method/obj/Debug/net10.0/refint/Extension_Method.dll
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/Extension_Method/obj/Debug/net10.0/Extension_Method.pdb
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/Extension_Method/obj/Debug/net10.0/Extension_Method.genruntimeconfig.cache
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/Extension_Method/obj/Debug/net10.0/ref/Extension_Method.dll

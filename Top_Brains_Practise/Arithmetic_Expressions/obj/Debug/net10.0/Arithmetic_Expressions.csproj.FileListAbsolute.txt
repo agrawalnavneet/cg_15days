@@ -1,0 +1,15 @@
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/Arithmetic_Expressions/bin/Debug/net10.0/Arithmetic_Expressions
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/Arithmetic_Expressions/bin/Debug/net10.0/Arithmetic_Expressions.deps.json
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/Arithmetic_Expressions/bin/Debug/net10.0/Arithmetic_Expressions.runtimeconfig.json
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/Arithmetic_Expressions/bin/Debug/net10.0/Arithmetic_Expressions.dll
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/Arithmetic_Expressions/bin/Debug/net10.0/Arithmetic_Expressions.pdb
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/Arithmetic_Expressions/obj/Debug/net10.0/Arithmetic_Expressions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/Arithmetic_Expressions/obj/Debug/net10.0/Arithmetic_Expressions.AssemblyInfoInputs.cache
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/Arithmetic_Expressions/obj/Debug/net10.0/Arithmetic_Expressions.AssemblyInfo.cs
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/Arithmetic_Expressions/obj/Debug/net10.0/Arithmetic_Expressions.csproj.CoreCompileInputs.cache
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/Arithmetic_Expressions/obj/Debug/net10.0/Arithmetic_Expressions.sourcelink.json
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/Arithmetic_Expressions/obj/Debug/net10.0/Arithmetic_Expressions.dll
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/Arithmetic_Expressions/obj/Debug/net10.0/refint/Arithmetic_Expressions.dll
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/Arithmetic_Expressions/obj/Debug/net10.0/Arithmetic_Expressions.pdb
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/Arithmetic_Expressions/obj/Debug/net10.0/Arithmetic_Expressions.genruntimeconfig.cache
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/Arithmetic_Expressions/obj/Debug/net10.0/ref/Arithmetic_Expressions.dll

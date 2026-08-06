@@ -1,0 +1,15 @@
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/Conversion/bin/Debug/net10.0/Conversion
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/Conversion/bin/Debug/net10.0/Conversion.deps.json
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/Conversion/bin/Debug/net10.0/Conversion.runtimeconfig.json
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/Conversion/bin/Debug/net10.0/Conversion.dll
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/Conversion/bin/Debug/net10.0/Conversion.pdb
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/Conversion/obj/Debug/net10.0/Conversion.GeneratedMSBuildEditorConfig.editorconfig
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/Conversion/obj/Debug/net10.0/Conversion.AssemblyInfoInputs.cache
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/Conversion/obj/Debug/net10.0/Conversion.AssemblyInfo.cs
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/Conversion/obj/Debug/net10.0/Conversion.csproj.CoreCompileInputs.cache
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/Conversion/obj/Debug/net10.0/Conversion.sourcelink.json
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/Conversion/obj/Debug/net10.0/Conversion.dll
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/Conversion/obj/Debug/net10.0/refint/Conversion.dll
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/Conversion/obj/Debug/net10.0/Conversion.pdb
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/Conversion/obj/Debug/net10.0/Conversion.genruntimeconfig.cache
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/Conversion/obj/Debug/net10.0/ref/Conversion.dll

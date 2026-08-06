@@ -1,0 +1,15 @@
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/String_Format/bin/Debug/net10.0/String_Format
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/String_Format/bin/Debug/net10.0/String_Format.deps.json
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/String_Format/bin/Debug/net10.0/String_Format.runtimeconfig.json
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/String_Format/bin/Debug/net10.0/String_Format.dll
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/String_Format/bin/Debug/net10.0/String_Format.pdb
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/String_Format/obj/Debug/net10.0/String_Format.GeneratedMSBuildEditorConfig.editorconfig
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/String_Format/obj/Debug/net10.0/String_Format.AssemblyInfoInputs.cache
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/String_Format/obj/Debug/net10.0/String_Format.AssemblyInfo.cs
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/String_Format/obj/Debug/net10.0/String_Format.csproj.CoreCompileInputs.cache
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/String_Format/obj/Debug/net10.0/String_Format.sourcelink.json
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/String_Format/obj/Debug/net10.0/String_Format.dll
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/String_Format/obj/Debug/net10.0/refint/String_Format.dll
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/String_Format/obj/Debug/net10.0/String_Format.pdb
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/String_Format/obj/Debug/net10.0/String_Format.genruntimeconfig.cache
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/String_Format/obj/Debug/net10.0/ref/String_Format.dll

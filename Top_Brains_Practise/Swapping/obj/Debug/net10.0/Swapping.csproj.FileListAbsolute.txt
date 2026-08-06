@@ -1,0 +1,15 @@
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/Swapping/bin/Debug/net10.0/Swapping
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/Swapping/bin/Debug/net10.0/Swapping.deps.json
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/Swapping/bin/Debug/net10.0/Swapping.runtimeconfig.json
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/Swapping/bin/Debug/net10.0/Swapping.dll
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/Swapping/bin/Debug/net10.0/Swapping.pdb
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/Swapping/obj/Debug/net10.0/Swapping.GeneratedMSBuildEditorConfig.editorconfig
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/Swapping/obj/Debug/net10.0/Swapping.AssemblyInfoInputs.cache
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/Swapping/obj/Debug/net10.0/Swapping.AssemblyInfo.cs
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/Swapping/obj/Debug/net10.0/Swapping.csproj.CoreCompileInputs.cache
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/Swapping/obj/Debug/net10.0/Swapping.sourcelink.json
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/Swapping/obj/Debug/net10.0/Swapping.dll
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/Swapping/obj/Debug/net10.0/refint/Swapping.dll
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/Swapping/obj/Debug/net10.0/Swapping.pdb
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/Swapping/obj/Debug/net10.0/Swapping.genruntimeconfig.cache
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/Swapping/obj/Debug/net10.0/ref/Swapping.dll

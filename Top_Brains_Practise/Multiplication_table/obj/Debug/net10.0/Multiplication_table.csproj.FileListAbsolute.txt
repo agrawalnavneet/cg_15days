@@ -1,0 +1,15 @@
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/Multiplication_table/bin/Debug/net10.0/Multiplication_table
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/Multiplication_table/bin/Debug/net10.0/Multiplication_table.deps.json
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/Multiplication_table/bin/Debug/net10.0/Multiplication_table.runtimeconfig.json
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/Multiplication_table/bin/Debug/net10.0/Multiplication_table.dll
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/Multiplication_table/bin/Debug/net10.0/Multiplication_table.pdb
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/Multiplication_table/obj/Debug/net10.0/Multiplication_table.GeneratedMSBuildEditorConfig.editorconfig
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/Multiplication_table/obj/Debug/net10.0/Multiplication_table.AssemblyInfoInputs.cache
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/Multiplication_table/obj/Debug/net10.0/Multiplication_table.AssemblyInfo.cs
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/Multiplication_table/obj/Debug/net10.0/Multiplication_table.csproj.CoreCompileInputs.cache
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/Multiplication_table/obj/Debug/net10.0/Multiplication_table.sourcelink.json
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/Multiplication_table/obj/Debug/net10.0/Multiplication_table.dll
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/Multiplication_table/obj/Debug/net10.0/refint/Multiplication_table.dll
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/Multiplication_table/obj/Debug/net10.0/Multiplication_table.pdb
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/Multiplication_table/obj/Debug/net10.0/Multiplication_table.genruntimeconfig.cache
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/Multiplication_table/obj/Debug/net10.0/ref/Multiplication_table.dll
