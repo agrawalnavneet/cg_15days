@@ -1,0 +1,15 @@
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/Mid_point_rounding/obj/Debug/net10.0/Mid_point_rounding.GeneratedMSBuildEditorConfig.editorconfig
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/Mid_point_rounding/obj/Debug/net10.0/Mid_point_rounding.AssemblyInfoInputs.cache
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/Mid_point_rounding/obj/Debug/net10.0/Mid_point_rounding.AssemblyInfo.cs
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/Mid_point_rounding/obj/Debug/net10.0/Mid_point_rounding.csproj.CoreCompileInputs.cache
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/Mid_point_rounding/obj/Debug/net10.0/Mid_point_rounding.sourcelink.json
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/Mid_point_rounding/bin/Debug/net10.0/Mid_point_rounding
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/Mid_point_rounding/bin/Debug/net10.0/Mid_point_rounding.deps.json
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/Mid_point_rounding/bin/Debug/net10.0/Mid_point_rounding.runtimeconfig.json
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/Mid_point_rounding/bin/Debug/net10.0/Mid_point_rounding.dll
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/Mid_point_rounding/bin/Debug/net10.0/Mid_point_rounding.pdb
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/Mid_point_rounding/obj/Debug/net10.0/Mid_point_rounding.dll
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/Mid_point_rounding/obj/Debug/net10.0/refint/Mid_point_rounding.dll
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/Mid_point_rounding/obj/Debug/net10.0/Mid_point_rounding.pdb
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/Mid_point_rounding/obj/Debug/net10.0/Mid_point_rounding.genruntimeconfig.cache
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/Mid_point_rounding/obj/Debug/net10.0/ref/Mid_point_rounding.dll
