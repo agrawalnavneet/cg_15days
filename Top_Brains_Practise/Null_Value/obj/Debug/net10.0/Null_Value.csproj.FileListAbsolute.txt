@@ -1,0 +1,15 @@
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/Null_Value/obj/Debug/net10.0/Null_Value.GeneratedMSBuildEditorConfig.editorconfig
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/Null_Value/obj/Debug/net10.0/Null_Value.AssemblyInfoInputs.cache
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/Null_Value/obj/Debug/net10.0/Null_Value.AssemblyInfo.cs
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/Null_Value/obj/Debug/net10.0/Null_Value.csproj.CoreCompileInputs.cache
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/Null_Value/obj/Debug/net10.0/Null_Value.sourcelink.json
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/Null_Value/bin/Debug/net10.0/Null_Value
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/Null_Value/bin/Debug/net10.0/Null_Value.deps.json
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/Null_Value/bin/Debug/net10.0/Null_Value.runtimeconfig.json
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/Null_Value/bin/Debug/net10.0/Null_Value.dll
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/Null_Value/bin/Debug/net10.0/Null_Value.pdb
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/Null_Value/obj/Debug/net10.0/Null_Value.dll
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/Null_Value/obj/Debug/net10.0/refint/Null_Value.dll
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/Null_Value/obj/Debug/net10.0/Null_Value.pdb
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/Null_Value/obj/Debug/net10.0/Null_Value.genruntimeconfig.cache
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/Null_Value/obj/Debug/net10.0/ref/Null_Value.dll
