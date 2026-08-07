@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("H5_QueryBuilder")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+240fff0916a44bbd6f323bf67b0fabbf17c5f752")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9d18ebe4b3e666ebeedb39133a8a154c20159f99")]
 [assembly: System.Reflection.AssemblyProductAttribute("H5_QueryBuilder")]
 [assembly: System.Reflection.AssemblyTitleAttribute("H5_QueryBuilder")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
