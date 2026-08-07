@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Strategy_Pattern_For_Discounts")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f1888e3625ff60c2d29d8c1a1371bc772b097662")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+240fff0916a44bbd6f323bf67b0fabbf17c5f752")]
 [assembly: System.Reflection.AssemblyProductAttribute("Strategy_Pattern_For_Discounts")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Strategy_Pattern_For_Discounts")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
