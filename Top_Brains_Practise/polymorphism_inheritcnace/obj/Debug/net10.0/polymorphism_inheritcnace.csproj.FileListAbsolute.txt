@@ -1,0 +1,15 @@
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/polymorphism_inheritcnace/obj/Debug/net10.0/polymorphism_inheritcnace.GeneratedMSBuildEditorConfig.editorconfig
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/polymorphism_inheritcnace/obj/Debug/net10.0/polymorphism_inheritcnace.AssemblyInfoInputs.cache
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/polymorphism_inheritcnace/obj/Debug/net10.0/polymorphism_inheritcnace.AssemblyInfo.cs
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/polymorphism_inheritcnace/obj/Debug/net10.0/polymorphism_inheritcnace.csproj.CoreCompileInputs.cache
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/polymorphism_inheritcnace/obj/Debug/net10.0/polymorphism_inheritcnace.sourcelink.json
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/polymorphism_inheritcnace/bin/Debug/net10.0/polymorphism_inheritcnace
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/polymorphism_inheritcnace/bin/Debug/net10.0/polymorphism_inheritcnace.deps.json
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/polymorphism_inheritcnace/bin/Debug/net10.0/polymorphism_inheritcnace.runtimeconfig.json
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/polymorphism_inheritcnace/bin/Debug/net10.0/polymorphism_inheritcnace.dll
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/polymorphism_inheritcnace/bin/Debug/net10.0/polymorphism_inheritcnace.pdb
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/polymorphism_inheritcnace/obj/Debug/net10.0/polymorphism_inheritcnace.dll
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/polymorphism_inheritcnace/obj/Debug/net10.0/refint/polymorphism_inheritcnace.dll
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/polymorphism_inheritcnace/obj/Debug/net10.0/polymorphism_inheritcnace.pdb
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/polymorphism_inheritcnace/obj/Debug/net10.0/polymorphism_inheritcnace.genruntimeconfig.cache
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/polymorphism_inheritcnace/obj/Debug/net10.0/ref/polymorphism_inheritcnace.dll
