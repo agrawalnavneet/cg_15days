@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "hospital_management_patient/1.0.0": {
+        "runtime": {
+          "hospital_management_patient.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "hospital_management_patient/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

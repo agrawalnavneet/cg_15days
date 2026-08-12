@@ -1,0 +1,15 @@
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/hospital_management_patient/bin/Debug/net10.0/hospital_management_patient
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/hospital_management_patient/bin/Debug/net10.0/hospital_management_patient.deps.json
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/hospital_management_patient/bin/Debug/net10.0/hospital_management_patient.runtimeconfig.json
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/hospital_management_patient/bin/Debug/net10.0/hospital_management_patient.dll
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/hospital_management_patient/bin/Debug/net10.0/hospital_management_patient.pdb
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/hospital_management_patient/obj/Debug/net10.0/hospital_management_patient.GeneratedMSBuildEditorConfig.editorconfig
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/hospital_management_patient/obj/Debug/net10.0/hospital_management_patient.AssemblyInfoInputs.cache
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/hospital_management_patient/obj/Debug/net10.0/hospital_management_patient.AssemblyInfo.cs
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/hospital_management_patient/obj/Debug/net10.0/hospital_management_patient.csproj.CoreCompileInputs.cache
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/hospital_management_patient/obj/Debug/net10.0/hospital_management_patient.sourcelink.json
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/hospital_management_patient/obj/Debug/net10.0/hospital_management_patient.dll
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/hospital_management_patient/obj/Debug/net10.0/refint/hospital_management_patient.dll
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/hospital_management_patient/obj/Debug/net10.0/hospital_management_patient.pdb
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/hospital_management_patient/obj/Debug/net10.0/hospital_management_patient.genruntimeconfig.cache
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/hospital_management_patient/obj/Debug/net10.0/ref/hospital_management_patient.dll
