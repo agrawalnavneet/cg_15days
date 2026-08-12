@@ -1,0 +1,15 @@
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/Custom_sorting/bin/Debug/net10.0/Custom_sorting
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/Custom_sorting/bin/Debug/net10.0/Custom_sorting.deps.json
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/Custom_sorting/bin/Debug/net10.0/Custom_sorting.runtimeconfig.json
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/Custom_sorting/bin/Debug/net10.0/Custom_sorting.dll
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/Custom_sorting/bin/Debug/net10.0/Custom_sorting.pdb
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/Custom_sorting/obj/Debug/net10.0/Custom_sorting.GeneratedMSBuildEditorConfig.editorconfig
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/Custom_sorting/obj/Debug/net10.0/Custom_sorting.AssemblyInfoInputs.cache
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/Custom_sorting/obj/Debug/net10.0/Custom_sorting.AssemblyInfo.cs
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/Custom_sorting/obj/Debug/net10.0/Custom_sorting.csproj.CoreCompileInputs.cache
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/Custom_sorting/obj/Debug/net10.0/Custom_sorting.sourcelink.json
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/Custom_sorting/obj/Debug/net10.0/Custom_sorting.dll
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/Custom_sorting/obj/Debug/net10.0/refint/Custom_sorting.dll
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/Custom_sorting/obj/Debug/net10.0/Custom_sorting.pdb
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/Custom_sorting/obj/Debug/net10.0/Custom_sorting.genruntimeconfig.cache
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/Custom_sorting/obj/Debug/net10.0/ref/Custom_sorting.dll

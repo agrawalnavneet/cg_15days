@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "5ah/61bCljM=",
+  "success": true,
+  "projectFilePath": "/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/Nunit_Assement/Nunit_Assement.csproj",
+  "expectedPackageFiles": [
+    "/Users/navneetagarwal/.nuget/packages/microsoft.applicationinsights/2.23.0/microsoft.applicationinsights.2.23.0.nupkg.sha512",
+    "/Users/navneetagarwal/.nuget/packages/microsoft.codecoverage/18.8.1/microsoft.codecoverage.18.8.1.nupkg.sha512",
+    "/Users/navneetagarwal/.nuget/packages/microsoft.extensions.dependencymodel/8.0.2/microsoft.extensions.dependencymodel.8.0.2.nupkg.sha512",
+    "/Users/navneetagarwal/.nuget/packages/microsoft.net.test.sdk/18.8.1/microsoft.net.test.sdk.18.8.1.nupkg.sha512",
+    "/Users/navneetagarwal/.nuget/packages/microsoft.testing.extensions.telemetry/2.1.0/microsoft.testing.extensions.telemetry.2.1.0.nupkg.sha512",
+    "/Users/navneetagarwal/.nuget/packages/microsoft.testing.extensions.trxreport.abstractions/2.1.0/microsoft.testing.extensions.trxreport.abstractions.2.1.0.nupkg.sha512",
+    "/Users/navneetagarwal/.nuget/packages/microsoft.testing.extensions.vstestbridge/2.1.0/microsoft.testing.extensions.vstestbridge.2.1.0.nupkg.sha512",
+    "/Users/navneetagarwal/.nuget/packages/microsoft.testing.platform/2.1.0/microsoft.testing.platform.2.1.0.nupkg.sha512",
+    "/Users/navneetagarwal/.nuget/packages/microsoft.testing.platform.msbuild/2.1.0/microsoft.testing.platform.msbuild.2.1.0.nupkg.sha512",
+    "/Users/navneetagarwal/.nuget/packages/microsoft.testplatform.objectmodel/18.8.1/microsoft.testplatform.objectmodel.18.8.1.nupkg.sha512",
+    "/Users/navneetagarwal/.nuget/packages/microsoft.testplatform.testhost/18.8.1/microsoft.testplatform.testhost.18.8.1.nupkg.sha512",
+    "/Users/navneetagarwal/.nuget/packages/nunit/4.6.1/nunit.4.6.1.nupkg.sha512",
+    "/Users/navneetagarwal/.nuget/packages/nunit3testadapter/6.2.0/nunit3testadapter.6.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}

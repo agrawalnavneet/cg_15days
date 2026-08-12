@@ -1,0 +1,15 @@
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/Bank_transaction/bin/Debug/net10.0/Bank_transaction
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/Bank_transaction/bin/Debug/net10.0/Bank_transaction.deps.json
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/Bank_transaction/bin/Debug/net10.0/Bank_transaction.runtimeconfig.json
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/Bank_transaction/bin/Debug/net10.0/Bank_transaction.dll
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/Bank_transaction/bin/Debug/net10.0/Bank_transaction.pdb
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/Bank_transaction/obj/Debug/net10.0/Bank_transaction.GeneratedMSBuildEditorConfig.editorconfig
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/Bank_transaction/obj/Debug/net10.0/Bank_transaction.AssemblyInfoInputs.cache
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/Bank_transaction/obj/Debug/net10.0/Bank_transaction.AssemblyInfo.cs
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/Bank_transaction/obj/Debug/net10.0/Bank_transaction.csproj.CoreCompileInputs.cache
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/Bank_transaction/obj/Debug/net10.0/Bank_transaction.sourcelink.json
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/Bank_transaction/obj/Debug/net10.0/Bank_transaction.dll
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/Bank_transaction/obj/Debug/net10.0/refint/Bank_transaction.dll
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/Bank_transaction/obj/Debug/net10.0/Bank_transaction.pdb
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/Bank_transaction/obj/Debug/net10.0/Bank_transaction.genruntimeconfig.cache
+/Users/navneetagarwal/Desktop/cg training/Top_Brains_Practise/Bank_transaction/obj/Debug/net10.0/ref/Bank_transaction.dll
