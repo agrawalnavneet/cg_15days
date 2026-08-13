@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Airlines_management_system/1.0.0": {
+        "runtime": {
+          "Airlines_management_system.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Airlines_management_system/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

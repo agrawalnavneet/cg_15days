@@ -1,0 +1,15 @@
+/Users/navneetagarwal/Desktop/cg training/Day4/Library_management_system/bin/Debug/net10.0/Library_management_system
+/Users/navneetagarwal/Desktop/cg training/Day4/Library_management_system/bin/Debug/net10.0/Library_management_system.deps.json
+/Users/navneetagarwal/Desktop/cg training/Day4/Library_management_system/bin/Debug/net10.0/Library_management_system.runtimeconfig.json
+/Users/navneetagarwal/Desktop/cg training/Day4/Library_management_system/bin/Debug/net10.0/Library_management_system.dll
+/Users/navneetagarwal/Desktop/cg training/Day4/Library_management_system/bin/Debug/net10.0/Library_management_system.pdb
+/Users/navneetagarwal/Desktop/cg training/Day4/Library_management_system/obj/Debug/net10.0/Library_management_system.GeneratedMSBuildEditorConfig.editorconfig
+/Users/navneetagarwal/Desktop/cg training/Day4/Library_management_system/obj/Debug/net10.0/Library_management_system.AssemblyInfoInputs.cache
+/Users/navneetagarwal/Desktop/cg training/Day4/Library_management_system/obj/Debug/net10.0/Library_management_system.AssemblyInfo.cs
+/Users/navneetagarwal/Desktop/cg training/Day4/Library_management_system/obj/Debug/net10.0/Library_management_system.csproj.CoreCompileInputs.cache
+/Users/navneetagarwal/Desktop/cg training/Day4/Library_management_system/obj/Debug/net10.0/Library_management_system.sourcelink.json
+/Users/navneetagarwal/Desktop/cg training/Day4/Library_management_system/obj/Debug/net10.0/Library_management_system.dll
+/Users/navneetagarwal/Desktop/cg training/Day4/Library_management_system/obj/Debug/net10.0/refint/Library_management_system.dll
+/Users/navneetagarwal/Desktop/cg training/Day4/Library_management_system/obj/Debug/net10.0/Library_management_system.pdb
+/Users/navneetagarwal/Desktop/cg training/Day4/Library_management_system/obj/Debug/net10.0/Library_management_system.genruntimeconfig.cache
+/Users/navneetagarwal/Desktop/cg training/Day4/Library_management_system/obj/Debug/net10.0/ref/Library_management_system.dll

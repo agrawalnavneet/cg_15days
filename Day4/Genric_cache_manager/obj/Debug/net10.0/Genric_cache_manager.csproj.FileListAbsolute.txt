@@ -1,0 +1,15 @@
+/Users/navneetagarwal/Desktop/cg training/Day4/Genric_cache_manager/bin/Debug/net10.0/Genric_cache_manager
+/Users/navneetagarwal/Desktop/cg training/Day4/Genric_cache_manager/bin/Debug/net10.0/Genric_cache_manager.deps.json
+/Users/navneetagarwal/Desktop/cg training/Day4/Genric_cache_manager/bin/Debug/net10.0/Genric_cache_manager.runtimeconfig.json
+/Users/navneetagarwal/Desktop/cg training/Day4/Genric_cache_manager/bin/Debug/net10.0/Genric_cache_manager.dll
+/Users/navneetagarwal/Desktop/cg training/Day4/Genric_cache_manager/bin/Debug/net10.0/Genric_cache_manager.pdb
+/Users/navneetagarwal/Desktop/cg training/Day4/Genric_cache_manager/obj/Debug/net10.0/Genric_cache_manager.GeneratedMSBuildEditorConfig.editorconfig
+/Users/navneetagarwal/Desktop/cg training/Day4/Genric_cache_manager/obj/Debug/net10.0/Genric_cache_manager.AssemblyInfoInputs.cache
+/Users/navneetagarwal/Desktop/cg training/Day4/Genric_cache_manager/obj/Debug/net10.0/Genric_cache_manager.AssemblyInfo.cs
+/Users/navneetagarwal/Desktop/cg training/Day4/Genric_cache_manager/obj/Debug/net10.0/Genric_cache_manager.csproj.CoreCompileInputs.cache
+/Users/navneetagarwal/Desktop/cg training/Day4/Genric_cache_manager/obj/Debug/net10.0/Genric_cache_manager.sourcelink.json
+/Users/navneetagarwal/Desktop/cg training/Day4/Genric_cache_manager/obj/Debug/net10.0/Genric_cache_manager.dll
+/Users/navneetagarwal/Desktop/cg training/Day4/Genric_cache_manager/obj/Debug/net10.0/refint/Genric_cache_manager.dll
+/Users/navneetagarwal/Desktop/cg training/Day4/Genric_cache_manager/obj/Debug/net10.0/Genric_cache_manager.pdb
+/Users/navneetagarwal/Desktop/cg training/Day4/Genric_cache_manager/obj/Debug/net10.0/Genric_cache_manager.genruntimeconfig.cache
+/Users/navneetagarwal/Desktop/cg training/Day4/Genric_cache_manager/obj/Debug/net10.0/ref/Genric_cache_manager.dll

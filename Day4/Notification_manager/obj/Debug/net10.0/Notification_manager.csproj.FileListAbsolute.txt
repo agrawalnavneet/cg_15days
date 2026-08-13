@@ -1,0 +1,15 @@
+/Users/navneetagarwal/Desktop/cg training/Day4/Notification_manager/bin/Debug/net10.0/Notification_manager
+/Users/navneetagarwal/Desktop/cg training/Day4/Notification_manager/bin/Debug/net10.0/Notification_manager.deps.json
+/Users/navneetagarwal/Desktop/cg training/Day4/Notification_manager/bin/Debug/net10.0/Notification_manager.runtimeconfig.json
+/Users/navneetagarwal/Desktop/cg training/Day4/Notification_manager/bin/Debug/net10.0/Notification_manager.dll
+/Users/navneetagarwal/Desktop/cg training/Day4/Notification_manager/bin/Debug/net10.0/Notification_manager.pdb
+/Users/navneetagarwal/Desktop/cg training/Day4/Notification_manager/obj/Debug/net10.0/Notification_manager.GeneratedMSBuildEditorConfig.editorconfig
+/Users/navneetagarwal/Desktop/cg training/Day4/Notification_manager/obj/Debug/net10.0/Notification_manager.AssemblyInfoInputs.cache
+/Users/navneetagarwal/Desktop/cg training/Day4/Notification_manager/obj/Debug/net10.0/Notification_manager.AssemblyInfo.cs
+/Users/navneetagarwal/Desktop/cg training/Day4/Notification_manager/obj/Debug/net10.0/Notification_manager.csproj.CoreCompileInputs.cache
+/Users/navneetagarwal/Desktop/cg training/Day4/Notification_manager/obj/Debug/net10.0/Notification_manager.sourcelink.json
+/Users/navneetagarwal/Desktop/cg training/Day4/Notification_manager/obj/Debug/net10.0/Notification_manager.dll
+/Users/navneetagarwal/Desktop/cg training/Day4/Notification_manager/obj/Debug/net10.0/refint/Notification_manager.dll
+/Users/navneetagarwal/Desktop/cg training/Day4/Notification_manager/obj/Debug/net10.0/Notification_manager.pdb
+/Users/navneetagarwal/Desktop/cg training/Day4/Notification_manager/obj/Debug/net10.0/Notification_manager.genruntimeconfig.cache
+/Users/navneetagarwal/Desktop/cg training/Day4/Notification_manager/obj/Debug/net10.0/ref/Notification_manager.dll

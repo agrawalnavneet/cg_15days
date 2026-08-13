@@ -1,0 +1,15 @@
+/Users/navneetagarwal/Desktop/cg training/Day4/Employ_payroll_engine/bin/Debug/net10.0/Employ_payroll_engine
+/Users/navneetagarwal/Desktop/cg training/Day4/Employ_payroll_engine/bin/Debug/net10.0/Employ_payroll_engine.deps.json
+/Users/navneetagarwal/Desktop/cg training/Day4/Employ_payroll_engine/bin/Debug/net10.0/Employ_payroll_engine.runtimeconfig.json
+/Users/navneetagarwal/Desktop/cg training/Day4/Employ_payroll_engine/bin/Debug/net10.0/Employ_payroll_engine.dll
+/Users/navneetagarwal/Desktop/cg training/Day4/Employ_payroll_engine/bin/Debug/net10.0/Employ_payroll_engine.pdb
+/Users/navneetagarwal/Desktop/cg training/Day4/Employ_payroll_engine/obj/Debug/net10.0/Employ_payroll_engine.GeneratedMSBuildEditorConfig.editorconfig
+/Users/navneetagarwal/Desktop/cg training/Day4/Employ_payroll_engine/obj/Debug/net10.0/Employ_payroll_engine.AssemblyInfoInputs.cache
+/Users/navneetagarwal/Desktop/cg training/Day4/Employ_payroll_engine/obj/Debug/net10.0/Employ_payroll_engine.AssemblyInfo.cs
+/Users/navneetagarwal/Desktop/cg training/Day4/Employ_payroll_engine/obj/Debug/net10.0/Employ_payroll_engine.csproj.CoreCompileInputs.cache
+/Users/navneetagarwal/Desktop/cg training/Day4/Employ_payroll_engine/obj/Debug/net10.0/Employ_payroll_engine.sourcelink.json
+/Users/navneetagarwal/Desktop/cg training/Day4/Employ_payroll_engine/obj/Debug/net10.0/Employ_payroll_engine.dll
+/Users/navneetagarwal/Desktop/cg training/Day4/Employ_payroll_engine/obj/Debug/net10.0/refint/Employ_payroll_engine.dll
+/Users/navneetagarwal/Desktop/cg training/Day4/Employ_payroll_engine/obj/Debug/net10.0/Employ_payroll_engine.pdb
+/Users/navneetagarwal/Desktop/cg training/Day4/Employ_payroll_engine/obj/Debug/net10.0/Employ_payroll_engine.genruntimeconfig.cache
+/Users/navneetagarwal/Desktop/cg training/Day4/Employ_payroll_engine/obj/Debug/net10.0/ref/Employ_payroll_engine.dll

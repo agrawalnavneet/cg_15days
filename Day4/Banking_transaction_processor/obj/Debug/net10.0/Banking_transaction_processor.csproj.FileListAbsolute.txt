@@ -1,0 +1,15 @@
+/Users/navneetagarwal/Desktop/cg training/Day4/Banking_transaction_processor/bin/Debug/net10.0/Banking_transaction_processor
+/Users/navneetagarwal/Desktop/cg training/Day4/Banking_transaction_processor/bin/Debug/net10.0/Banking_transaction_processor.deps.json
+/Users/navneetagarwal/Desktop/cg training/Day4/Banking_transaction_processor/bin/Debug/net10.0/Banking_transaction_processor.runtimeconfig.json
+/Users/navneetagarwal/Desktop/cg training/Day4/Banking_transaction_processor/bin/Debug/net10.0/Banking_transaction_processor.dll
+/Users/navneetagarwal/Desktop/cg training/Day4/Banking_transaction_processor/bin/Debug/net10.0/Banking_transaction_processor.pdb
+/Users/navneetagarwal/Desktop/cg training/Day4/Banking_transaction_processor/obj/Debug/net10.0/Banking_transaction_processor.GeneratedMSBuildEditorConfig.editorconfig
+/Users/navneetagarwal/Desktop/cg training/Day4/Banking_transaction_processor/obj/Debug/net10.0/Banking_transaction_processor.AssemblyInfoInputs.cache
+/Users/navneetagarwal/Desktop/cg training/Day4/Banking_transaction_processor/obj/Debug/net10.0/Banking_transaction_processor.AssemblyInfo.cs
+/Users/navneetagarwal/Desktop/cg training/Day4/Banking_transaction_processor/obj/Debug/net10.0/Banking_transaction_processor.csproj.CoreCompileInputs.cache
+/Users/navneetagarwal/Desktop/cg training/Day4/Banking_transaction_processor/obj/Debug/net10.0/Banking_transaction_processor.sourcelink.json
+/Users/navneetagarwal/Desktop/cg training/Day4/Banking_transaction_processor/obj/Debug/net10.0/Banking_transaction_processor.dll
+/Users/navneetagarwal/Desktop/cg training/Day4/Banking_transaction_processor/obj/Debug/net10.0/refint/Banking_transaction_processor.dll
+/Users/navneetagarwal/Desktop/cg training/Day4/Banking_transaction_processor/obj/Debug/net10.0/Banking_transaction_processor.pdb
+/Users/navneetagarwal/Desktop/cg training/Day4/Banking_transaction_processor/obj/Debug/net10.0/Banking_transaction_processor.genruntimeconfig.cache
+/Users/navneetagarwal/Desktop/cg training/Day4/Banking_transaction_processor/obj/Debug/net10.0/ref/Banking_transaction_processor.dll

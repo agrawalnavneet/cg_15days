@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Multi_level_approval/1.0.0": {
+        "runtime": {
+          "Multi_level_approval.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Multi_level_approval/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

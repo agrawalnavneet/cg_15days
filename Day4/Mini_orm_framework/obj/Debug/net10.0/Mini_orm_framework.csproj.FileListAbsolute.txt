@@ -1,0 +1,15 @@
+/Users/navneetagarwal/Desktop/cg training/Day4/Mini_orm_framework/bin/Debug/net10.0/Mini_orm_framework
+/Users/navneetagarwal/Desktop/cg training/Day4/Mini_orm_framework/bin/Debug/net10.0/Mini_orm_framework.deps.json
+/Users/navneetagarwal/Desktop/cg training/Day4/Mini_orm_framework/bin/Debug/net10.0/Mini_orm_framework.runtimeconfig.json
+/Users/navneetagarwal/Desktop/cg training/Day4/Mini_orm_framework/bin/Debug/net10.0/Mini_orm_framework.dll
+/Users/navneetagarwal/Desktop/cg training/Day4/Mini_orm_framework/bin/Debug/net10.0/Mini_orm_framework.pdb
+/Users/navneetagarwal/Desktop/cg training/Day4/Mini_orm_framework/obj/Debug/net10.0/Mini_orm_framework.GeneratedMSBuildEditorConfig.editorconfig
+/Users/navneetagarwal/Desktop/cg training/Day4/Mini_orm_framework/obj/Debug/net10.0/Mini_orm_framework.AssemblyInfoInputs.cache
+/Users/navneetagarwal/Desktop/cg training/Day4/Mini_orm_framework/obj/Debug/net10.0/Mini_orm_framework.AssemblyInfo.cs
+/Users/navneetagarwal/Desktop/cg training/Day4/Mini_orm_framework/obj/Debug/net10.0/Mini_orm_framework.csproj.CoreCompileInputs.cache
+/Users/navneetagarwal/Desktop/cg training/Day4/Mini_orm_framework/obj/Debug/net10.0/Mini_orm_framework.sourcelink.json
+/Users/navneetagarwal/Desktop/cg training/Day4/Mini_orm_framework/obj/Debug/net10.0/Mini_orm_framework.dll
+/Users/navneetagarwal/Desktop/cg training/Day4/Mini_orm_framework/obj/Debug/net10.0/refint/Mini_orm_framework.dll
+/Users/navneetagarwal/Desktop/cg training/Day4/Mini_orm_framework/obj/Debug/net10.0/Mini_orm_framework.pdb
+/Users/navneetagarwal/Desktop/cg training/Day4/Mini_orm_framework/obj/Debug/net10.0/Mini_orm_framework.genruntimeconfig.cache
+/Users/navneetagarwal/Desktop/cg training/Day4/Mini_orm_framework/obj/Debug/net10.0/ref/Mini_orm_framework.dll

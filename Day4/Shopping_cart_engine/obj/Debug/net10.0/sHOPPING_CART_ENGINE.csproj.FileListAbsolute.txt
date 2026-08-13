@@ -1,0 +1,15 @@
+/Users/navneetagarwal/Desktop/cg training/Day4/Shopping_cart_engine/bin/Debug/net10.0/sHOPPING_CART_ENGINE
+/Users/navneetagarwal/Desktop/cg training/Day4/Shopping_cart_engine/bin/Debug/net10.0/sHOPPING_CART_ENGINE.deps.json
+/Users/navneetagarwal/Desktop/cg training/Day4/Shopping_cart_engine/bin/Debug/net10.0/sHOPPING_CART_ENGINE.runtimeconfig.json
+/Users/navneetagarwal/Desktop/cg training/Day4/Shopping_cart_engine/bin/Debug/net10.0/sHOPPING_CART_ENGINE.dll
+/Users/navneetagarwal/Desktop/cg training/Day4/Shopping_cart_engine/bin/Debug/net10.0/sHOPPING_CART_ENGINE.pdb
+/Users/navneetagarwal/Desktop/cg training/Day4/Shopping_cart_engine/obj/Debug/net10.0/sHOPPING_CART_ENGINE.GeneratedMSBuildEditorConfig.editorconfig
+/Users/navneetagarwal/Desktop/cg training/Day4/Shopping_cart_engine/obj/Debug/net10.0/sHOPPING_CART_ENGINE.AssemblyInfoInputs.cache
+/Users/navneetagarwal/Desktop/cg training/Day4/Shopping_cart_engine/obj/Debug/net10.0/sHOPPING_CART_ENGINE.AssemblyInfo.cs
+/Users/navneetagarwal/Desktop/cg training/Day4/Shopping_cart_engine/obj/Debug/net10.0/sHOPPING_CART_ENGINE.csproj.CoreCompileInputs.cache
+/Users/navneetagarwal/Desktop/cg training/Day4/Shopping_cart_engine/obj/Debug/net10.0/sHOPPING_CART_ENGINE.sourcelink.json
+/Users/navneetagarwal/Desktop/cg training/Day4/Shopping_cart_engine/obj/Debug/net10.0/sHOPPING_CART_ENGINE.dll
+/Users/navneetagarwal/Desktop/cg training/Day4/Shopping_cart_engine/obj/Debug/net10.0/refint/sHOPPING_CART_ENGINE.dll
+/Users/navneetagarwal/Desktop/cg training/Day4/Shopping_cart_engine/obj/Debug/net10.0/sHOPPING_CART_ENGINE.pdb
+/Users/navneetagarwal/Desktop/cg training/Day4/Shopping_cart_engine/obj/Debug/net10.0/sHOPPING_CART_ENGINE.genruntimeconfig.cache
+/Users/navneetagarwal/Desktop/cg training/Day4/Shopping_cart_engine/obj/Debug/net10.0/ref/sHOPPING_CART_ENGINE.dll
